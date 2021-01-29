@@ -1,0 +1,18 @@
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.pdb
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.pdb
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.pdb
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\arealaw\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.pdb
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\bin\Debug\sql lib pierwsze podejscie.pdb
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.dll
+C:\Users\barte\source\repos\arealaw — kopia\sql lib pierwsze podejscie\obj\Debug\sql lib pierwsze podejscie.pdb

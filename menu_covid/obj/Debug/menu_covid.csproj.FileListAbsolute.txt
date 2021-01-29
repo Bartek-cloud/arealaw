@@ -1,0 +1,21 @@
+C:\Users\barte\source\repos\menu_covid\obj\Debug\menu_covid.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\menu_covid\obj\Debug\menu_covid.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\menu_covid\bin\Debug\menu.dll.config
+C:\Users\barte\source\repos\menu_covid\bin\Debug\menu.dll
+C:\Users\barte\source\repos\menu_covid\bin\Debug\menu.pdb
+C:\Users\barte\source\repos\menu_covid\obj\Debug\menu.dll
+C:\Users\barte\source\repos\menu_covid\obj\Debug\menu.pdb
+C:\Users\barte\source\repos\arealaw\menu_covid\bin\Debug\menu.dll.config
+C:\Users\barte\source\repos\arealaw\menu_covid\bin\Debug\menu.dll
+C:\Users\barte\source\repos\arealaw\menu_covid\bin\Debug\menu.pdb
+C:\Users\barte\source\repos\arealaw\menu_covid\obj\Debug\menu_covid.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\arealaw\menu_covid\obj\Debug\menu_covid.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\arealaw\menu_covid\obj\Debug\menu.dll
+C:\Users\barte\source\repos\arealaw\menu_covid\obj\Debug\menu.pdb
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\bin\Debug\menu.dll.config
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\bin\Debug\menu.dll
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\bin\Debug\menu.pdb
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\obj\Debug\menu_covid.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\obj\Debug\menu_covid.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\obj\Debug\menu.dll
+C:\Users\barte\source\repos\arealaw — kopia\menu_covid\obj\Debug\menu.pdb

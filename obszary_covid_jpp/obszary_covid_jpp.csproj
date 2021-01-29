@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{204080B3-D6FF-4307-9430-3FAF2A24F4A3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>obszary_covid_jpp</RootNamespace>
+    <AssemblyName>obszary_covid_jpp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="kom z uzytkownikami\Edit\DelDoc.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\DelLawhor.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\DelLawver.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\HandcreateDochor.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\hand_made_area.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\Modarea.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\Moddocver.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\ModLawver.cs" />
+    <Compile Include="kom z uzytkownikami\Main\Mainmenu.cs" />
+    <Compile Include="kom z uzytkownikami\Main\Searcher.cs" />
+    <Compile Include="kom z uzytkownikami\Main\Suportfunction.cs" />
+    <Compile Include="mid\Law\LawDataconv.cs" />
+    <Compile Include="mid\Law\VerLaWdata.cs" />
+    <Compile Include="sqluse\Law\Horizontal_laweditor.cs" />
+    <Compile Include="mid\Law\HorLawdata.cs" />
+    <Compile Include="sqluse\Law\Documentvereditor.cs" />
+    <Compile Include="sqluse\Area\Area.cs" />
+    <Compile Include="mid\Areas.cs" />
+    <Compile Include="mid\area\Area_creator.cs" />
+    <Compile Include="mid\area\Area_date.cs" />
+    <Compile Include="mid\area\Area_date_form.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\MakeDocumentto.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\Moddochor.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\ModLawhor.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\Edit.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\DeleteArea.cs" />
+    <Compile Include="kom z uzytkownikami\Edit\MakeLawHor.cs" />
+    <Compile Include="kom z uzytkownikami\Main\Mainmenu1.cs" />
+    <Compile Include="sqluse\Area\AreaKids\Commune.cs" />
+    <Compile Include="sqluse\Area\AreaKids\Country.cs" />
+    <Compile Include="sqluse\Area\AreaKids\District.cs" />
+    <Compile Include="mid\Law\Document.cs" />
+    <Compile Include="sqluse\Area\AreaKids\Province.cs" />
+    <Compile Include="sqluse\Law\Horizontal_law.cs" />
+    <Compile Include="sqluse\Law\Documenthoreditoreditor.cs" />
+    <Compile Include="sqluse\Sql_area.cs" />
+    <Compile Include="sqluse\Law\Law.cs" />
+    <Compile Include="kom z uzytkownikami\Menu__form_area.cs" />
+    <Compile Include="kom z uzytkownikami\Main\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sqluse\Area\Areasditor.cs" />
+    <Compile Include="sqluse\Law\Vertical_law.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\menu_covid\menu_covid.csproj">
+      <Project>{6df9c525-ffc7-4111-a7f1-007d4b88e881}</Project>
+      <Name>menu_covid</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sql lib pierwsze podejscie\sql lib pierwsze podejscie.csproj">
+      <Project>{bc063a43-3690-4d70-ae52-762b5dd5e919}</Project>
+      <Name>sql lib pierwsze podejscie</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="log.ts" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
